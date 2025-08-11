@@ -4,7 +4,7 @@
 # NOTE
 The live server local host and port link is different from the PHP XAMPP server. To be able to see the HTML code inside the PHP file make sure that the XAMPP server's Apache and MySQL box are checked.
 
-After which, go to this link **http://localhost/myproject/index.php** and replace the myproject with the project folder and the PHP file name.
+After which, go to this link **http://localhost/myproject/index.php** and replace the myproject with the project folder and the PHP file name. You can add in this line inside the phpinfo(); inside the PHP tags to check the PHP version installed and other machine information.
   
 ## Put PHP into PATH **environment system variables**
 Go to "edit environment system" variables and edit "PATH" then add "D:/XAMPP/php". Depending on installation location. 

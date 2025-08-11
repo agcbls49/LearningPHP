@@ -1,12 +1,3 @@
-<?php
-// check info of PHP installed 
-// phpinfo();
-echo "I love pizza <br>";
-echo "It's really good <br>";
-$date = "4/23/2025";
-echo $date;
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,9 +6,9 @@ echo $date;
     <title>Document</title>
 </head>
 <body>
-    <br>
-    <button>order a pizza</button>
-
-    <!-- 15:23 https://youtu.be/zZ6vybT1HQs?si=treD-xZMahvCRuEZ&t=923 -->
+    <!-- https://youtu.be/zZ6vybT1HQs?si=z0ClFAfK4ZrIFth2&t=3629 -->
 </body>
 </html>
+<?php
+    
+?>
