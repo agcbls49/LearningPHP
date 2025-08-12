@@ -1,5 +1,6 @@
-<!-- variable - a reusable container that holds data -->
 <?php 
+    // Variable - a reusable container that holds data
+    
     $name = "Bro ";
     $food = "pizza";
     echo "Hello {$name}<br>";
