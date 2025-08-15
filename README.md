@@ -20,4 +20,9 @@ To make it automatic, install the Live Server extension in the Chrome Web Store.
 To get the live server address, click on the live server at the bottom of VSCode and get the link of the port on the chrome pop-up.
   
 The actual server address to be used is  "http://localhost/learningphp/" and the live server address is "http://127.0.0.1:5500/". After which click apply and live reload will now work.
-  
+
+## Important Lessons
+
+**Link for these [lessons](https://youtu.be/zZ6vybT1HQs?si=Vn6k-VmLnRFzNG5n&t=11807)**
+
+  _SESSION, _SERVER, password hashing, PHP Connect to MySQL database, PHP insert into MySQL database, PHP query MySQL database and PHP registration form project.

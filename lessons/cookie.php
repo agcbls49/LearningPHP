@@ -2,6 +2,7 @@
     // Cookie - information about a user stored in a user's web browser
     // targeted advertisements, browsing preferences, and other non-sensitive data
 
+    // Arguments of setcookie();
     // the key is the first in the parameter (its just an associative array)
     // value is the second argument/parameter
     // third argument is an expiration time in seconds (86400 for a day)

@@ -1,0 +1,1 @@
+Files needed are index.php and code from the database.php.
